@@ -28,7 +28,7 @@ cursor: default;
     background:  linear-gradient(to top right,  #0b010f   0%,#181e25 100%)
 
 }
-.thec{
+.pic{
 margin: 10px 0px;
 height: 50px;
 width: 250px;
@@ -36,7 +36,7 @@ border: 1px solid black;
 border-radius: 10px;
 background:  linear-gradient(to top right,  #0b010f   0%,#181e25 100%)
 }
-.thec:hover{
+.pic:hover{
   background: rgb(219, 241, 237);
   color: #0b010f;
 
@@ -47,11 +47,11 @@ background:  linear-gradient(to top right,  #0b010f   0%,#181e25 100%)
         margin: 10px;
     }
 
-.coror {
+.text {
     color: aquamarine;
 
 }
-.corors {
+.texts {
     color: #0b010f;
 
 }
