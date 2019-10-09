@@ -4,3 +4,5 @@
 
 ### Hint 
 https://www.w3schools.com/jquery/jquery_hide_show.asp
+
+https://api.jquery.com/hover/
